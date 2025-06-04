@@ -340,11 +340,7 @@ input[type="text"]:-ms-input-placeholder {
   font-weight: 600;
   color: var(--#accent-light);
   margin-bottom: 0.5rem;
-  /* ----- AGREGADO: resplandor intenso ----- */
-  text-shadow:
-    0 0 4px var(--accent-light),   /* primer halo suave */
-    0 0 8px var(--accent-light),   /* segundo halo más difundido */
-    0 0 12px var(--accent-mid);     /* halo más amplio en color medio */
+
 }
 
 .carousel {
