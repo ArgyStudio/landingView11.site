@@ -622,7 +622,8 @@ html.light body {
 }
 
 
-.screen::after{content:"© 2025 ArgyStudios. Todos los derechos reservados.";display:block;width:100%;text-align:center;opacity:0.5;margin-top:2rem;}
+.screen::after{content:"© 2025 ArgyStudios. Todos los derechos reservados.";display:block;width:100%;text-align:center;opacity:0.5;margin-top:2rem;font-size:0.5em;}
+
 
 
 
